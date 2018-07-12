@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "375937344581",
+    "firebase_url": "https://internityapp2-99f72.firebaseio.com",
+    "project_id": "internityapp2-99f72",
+    "storage_bucket": "internityapp2-99f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375937344581:android:4d37e3b9fd2d9cc8",
+        "android_client_info": {
+          "package_name": "com.example.fullmetal.internityapp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375937344581-3euqf4baeluh37i5neqbi6052kl05p3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fullmetal.internityapp3",
+            "certificate_hash": "5a3e533f3d574c31f4b58eddec871e5b801679f0"
+          }
+        },
+        {
+          "client_id": "375937344581-0dljgkpu1r5ssbtn4fufio7nql9jc4m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKbUTEWaLj_A-Y4y4kV9lfTQ4zrRGsuL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375937344581-0dljgkpu1r5ssbtn4fufio7nql9jc4m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
